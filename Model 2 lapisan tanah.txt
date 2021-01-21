@@ -1,0 +1,19 @@
+frekuensi 1 8000 30
+no resistivity ketebalan
+1 300 300
+2 100 200
+
+
+
+%Keterangan
+frekuensi (minimum frekuensi) (maksimum frekuensi) (jumlah data)
+no resistivity ketebalan
+1 (resistivity lapisan 1) (ketebalan lapisan 1)
+2 (resistivity lapisan 2) (ketebalan lapisan 2)
+.	.			.
+.	.			.
+.	.			.
+
+N (resistivity lapisan N) (masukkan angka berapa saja*)
+
+*akan menjadi homogenous halfspace

@@ -1,0 +1,3 @@
+frekuensi	1	8000	30
+no	resistivity	ketebalan
+1	1000		100

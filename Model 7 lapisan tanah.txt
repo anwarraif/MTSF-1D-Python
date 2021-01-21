@@ -1,0 +1,22 @@
+frekuensi	0.001	10000	30
+no	resistivity	ketebalan	
+1 	100		 10
+2 	1000		 200
+3  	500 		 50	
+4	600		 80
+5	10		 50
+6	500		 100
+7	1000		 300		
+
+%Format
+
+frekuensi (min. frek) (max frek) (jumlah data)
+no	resistivity	ketebalan	
+1	r1		tebal1
+2	r2		tebal2
+.	.		.	
+.	.		.
+.	.		.
+dst	dst		dst
+
+bisa dibuat dengan notepad atau excel asal disave dalam .txt
